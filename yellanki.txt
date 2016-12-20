@@ -1,2 +1,5 @@
 Creating a Repository
 Name of this Repo is Pracice1
+Edit success
+
+Adding My Info page to this file.
